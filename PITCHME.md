@@ -1,17 +1,15 @@
 # Introduction to Python
 
 ---
-
 ## Before we get started
-### Go to https://repl.it/languages/python3
-![](assets/img/replit.png)
 
 ---
 ## Online Editor
+###### https://repl.it/languages/python3
+![](assets/img/replit.png)
 
 ---
-
-## Your first Python code
+## First Code
 ### "Hello World"
 ```
 print("Hello World!")
