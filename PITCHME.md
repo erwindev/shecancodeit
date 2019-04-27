@@ -10,7 +10,14 @@
 
 ---
 ## First Code
-### "Hello World"
 ---?code=src/helloworld.py
 
 ---
+## Comments
+---?code=src/comments.py
+
+
+---?image=assets/img/last.jpeg
+@snap[north span-100 headline]
+## Go Forth and CODE
+@snapend
