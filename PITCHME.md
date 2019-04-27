@@ -55,7 +55,7 @@ Comments are any text to the right of the # symbol and is mainly useful as notes
 * Leading whitespace (spaces and tabs) at the beginning of the logical line determines Indentation
 * Statements that must go together must have the same indentation
 
----?code=src/indentation.py&lang=Python&color=#1E1F21&title=Logical and Physical Line
+---?code=src/indentations.py&lang=Python&color=#1E1F21&title=Logical and Physical Line
 @[1-3]
 @[7]
 
