@@ -11,8 +11,6 @@
 ---
 ## First Code
 ### "Hello World"
-```
-print("Hello World!")
-```
+---?code=src/helloworld.py
 
 ---
