@@ -10,6 +10,10 @@
 
 ---?code=src/helloworld.py&lang=Python&color=#1E1F21&title=First Code: Hello World
 
+---
+## Comments
+Comments are any text to the right of the # symbol and is mainly useful as notes for the reader of the program.
+
 ---?code=src/comments.py&lang=Python&color=#1E1F21&title=Comments
 @[1]
 @[3-4]
