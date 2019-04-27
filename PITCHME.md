@@ -2,4 +2,10 @@
 
 ---
 
-## Let's code
+## Your first Python code
+### "Hello World"
+```
+print("Hello World!")
+```
+
+---
