@@ -15,8 +15,9 @@
 Comments are any text to the right of the # symbol and is mainly useful as notes for the reader of the program.
 
 ---?code=src/comments.py&lang=Python&color=#1E1F21&title=Comments
-@[1]
-@[3-4]
+@[1-3]
+@[5]
+@[7-8]
 
 ---?image=assets/img/last.jpeg
 @snap[north span-100 headline]
