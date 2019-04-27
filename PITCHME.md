@@ -11,6 +11,8 @@
 ---?code=src/helloworld.py&lang=Python&color=#1E1F21&title=First Code: Hello World
 
 ---?code=src/comments.py&lang=Python&color=#1E1F21&title=Comments
+@[1]
+@[3-4]
 
 ---?image=assets/img/last.jpeg
 @snap[north span-100 headline]
