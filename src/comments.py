@@ -2,7 +2,7 @@
 # This is a comment
 ######################
 
-print("Hello World!") # This uses double quotes
+print("Hello World!") # same line as code
 
-# This uses single quotes
+# comment by itself
 print('Hello World!')
