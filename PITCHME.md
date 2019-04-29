@@ -104,7 +104,7 @@ https://gitpitch.com/erwindev/shecancodeit
   * `x > y` returns `True` or `False`
 * `<=` (less than or equal to)
   * `x <= y` returns `True` or `False`
-* `<=` (greater than or equal to)
+* `>=` (greater than or equal to)
   * `x >= y` returns `True` or `False`
 
 ---?color=#1E1F21
