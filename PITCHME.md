@@ -64,6 +64,68 @@
 @[8-10]
 @[1-6]
 
+---?color=#1E1F21
+## Expressions and Operators
+* Most statements (logical lines) that you write will contain expressions
+* Functionality that do something and can be represented by symbols such as `+` or by special keywords.
+* Operators require some data to operate on and such data is called operands.
+* In the example `1 + 2`, `2` and `3` are operands
+
+---?color=#1E1F21
+## Operators
+* `+` (plus)
+* `-` (minus)
+* `*` (multiply)
+* `**` (power) `2 ** 3` gives `8` (i.e. `2 * 2 * 2`)
+* `/` (divide)
+
+---?color=#1E1F21
+## Operators
+* `%` (modulo)
+  * returns the remainder of the division
+  * `15 % 2` gives `1`
+  * `8 % 4` gives `0`
+
+---?color=#1E1F21
+## Operators    
+* `<` (less than)
+  * `x < y` returns `True` or `False`
+* `>` (greater than)
+  * `x > y` returns `True` or `False`
+* `<=` (less than or equal to)
+  * `x <= y` returns `True` or `False`
+* `<=` (greater than or equal to)
+  * `x >= y` returns `True` or `False`
+* `==` (equal to)
+  * `x == y` returns `True` or `False`
+* `!=` (not equal to)
+  * `x != y` returns `True` or `False`  
+
+---?color=#1E1F21
+## Operators
+* `not` (boolean NOT)
+  * If x is True, it returns `False`. If x is `False`, it returns `True`.
+* `and` (boolean AND)
+  * `x and y` returns `False` if x is `False`, else it returns evaluation of y
+* `or` (boolean OR)
+  * If x is `True`, it returns `True`, else it returns evaluation of y
+
+---?code=src/operators.py&lang=Python&color=#1E1F21&title=Operators
+@[1-3]
+@[5-7]
+@[9-11]
+@[13-15]
+@[17-21]
+@[23-24]
+@[26-27]
+@[29-30]
+@[32-33]
+@[35-37]
+@[39-40]
+@[42-43]
+@[45-47]
+@[49-52]
+
 ---?image=assets/img/last.jpeg
 @snap[north span-100 headline]
 ## Go Forth and CODE
