@@ -15,6 +15,7 @@ https://github.com/erwindev/shecancodeit
 ---?code=src/helloworld.py&lang=Python&color=#1E1F21&title=Your Very First Code: Hello World
 
 ---?color=#1E1F21&title=Comments
+## Comments
 * Comments are any text to the right of the # symbol and is mainly useful as notes for the reader of the program.
 
 ---?code=src/comments.py&lang=Python&color=#1E1F21&title=Comments
@@ -23,6 +24,7 @@ https://github.com/erwindev/shecancodeit
 @[7-8]
 
 ---?color=#1E1F21&title=Strings
+## Strings
 * A string is a sequence of characters.
 * Strings are basically just a bunch of words.  
 
@@ -32,6 +34,7 @@ https://github.com/erwindev/shecancodeit
 @[7-11]
 
 ---?color=#1E1F21&title=Variables
+## Variables
 * Use variables to store any information
 * Manipulate the information stored in the variable
 
@@ -41,6 +44,7 @@ https://github.com/erwindev/shecancodeit
 @[10-12]
 
 ---?color=#1E1F21&title=Logical and Physical Line
+## Logical and Physical Line
 * A physical line is what you see when you write the program.
 * A logical line is what Python sees as a single statement.
 * Python implicitly assumes that each physical line corresponds to a logical line.
@@ -51,6 +55,7 @@ https://github.com/erwindev/shecancodeit
 @[7]
 
 ---?color=#1E1F21&title=Indentation
+## Indentation
 * Whitespace is important in Python.
 * Leading whitespace (spaces and tabs) at the beginning of the logical line determines indentation
 * Statements that must go together must have the same indentation
@@ -60,12 +65,14 @@ https://github.com/erwindev/shecancodeit
 @[1-6]
 
 ---?color=#1E1F21&title=Expressions and Operators
+## Expressions and Operators
 * Most statements (logical lines) that you write will contain expressions
 * Expressions are functionality that do something and can be represented by symbols such as `+` or by special keywords.
 * Operators require some data to operate on and such data is called operands.
 * In the example, `1 + 2`, `2` and `3` are operands
 
 ---?color=#1E1F21&title=Operators
+## Operators
 * `+` (plus)
 * `-` (minus)
 * `*` (multiply)
@@ -73,12 +80,14 @@ https://github.com/erwindev/shecancodeit
 * `/` (divide)
 
 ---?color=#1E1F21&title=Operators
+## Operators
 * `%` (modulo)
   * returns the remainder of the division
   * `15 % 2` gives `1`
   * `8 % 4` gives `0`
 
 ---?color=#1E1F21&title=Operators    
+## Operators
 * `<` (less than)
   * `x < y` returns `True` or `False`
 * `>` (greater than)
@@ -89,12 +98,14 @@ https://github.com/erwindev/shecancodeit
   * `x >= y` returns `True` or `False`
 
 ---?color=#1E1F21&title=Operators    
+## Operators
 * `==` (equal to)
   * `x == y` returns `True` or `False`
 * `!=` (not equal to)
   * `x != y` returns `True` or `False`  
 
 ---?color=#1E1F21&title=Operators
+## Operators
 * `not` (boolean NOT)
   * If x is True, it returns `False`. If x is `False`, it returns `True`.
 * `and` (boolean AND)
@@ -119,13 +130,16 @@ https://github.com/erwindev/shecancodeit
 @[49-52]
 
 ---?color=#1E1F21&Title=Evaluate
+## Evaluate
 `2 + 3 * 5 = ?`
 
 ---?color=#1E1F21&Title=Evaluate
+## Evaluate
 `(2 + 3) * 5 = ?`
 `2 + (3 * 5) = ?`
 
 ---?color=#1E1F21&title=Order of Operation
+## Order of Operation
 https://docs.python.org/3/reference/expressions.html#operator-precedence
 
 To make the expressions more readable, we can use parentheses.
@@ -133,6 +147,7 @@ To make the expressions more readable, we can use parentheses.
 `2 + 3 * 5 == 2 + (3 * 5)` returns True
 
 ---?color=#1E1F21&Title=Exercise
+## Exercise
 * Write code that will calculate a volume of a sphere
 * Write code that will calculate surface area of a cube
 
@@ -141,6 +156,7 @@ To make the expressions more readable, we can use parentheses.
 @[6-8]
 
 ---?color=#1E1F21&title=Control Flow: if
+## Control Flow: if
 * if statement is used to check a condition
 * if the condition is true, we run a block of statements (called the if-block)
 * else we process another block of statements (called the else-block)
@@ -149,6 +165,7 @@ To make the expressions more readable, we can use parentheses.
 @[8-14]
 
 ---?color=#1E1F21&title=Control Flow: while
+## Control Flow: while
 * while statement allows you to repeatedly execute a block of statements as long as a condition is true
 * looping statement
 * can have an optional else clause
@@ -157,6 +174,7 @@ To make the expressions more readable, we can use parentheses.
 @[5-16]
 
 ---?color=#1E1F21&title=Control Flow: for
+## Control Flow: for
 * for..in statement is another looping statement which iterates over a sequence of objects
 
 ---?code=src/for.py&lang=Python&color=#1E1F21&title=Control Flow: for
@@ -164,6 +182,7 @@ To make the expressions more readable, we can use parentheses.
 @[6-11]
 
 ---?color=#1E1F21&Title=Exercise
+## Exercise
 * Write a program which takes in a string as an input and returns true if all the parentheses in the string are properly closed and nested.
 
 ((lambda (arg) (+ arg 1)) 5)
