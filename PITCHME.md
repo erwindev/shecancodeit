@@ -4,7 +4,8 @@
 ---?color=#1E1F21
 ## Before we get started
 
----?color=#1E1F21&title=Online Editor
+---?color=#1E1F21
+## Online Editor
 https://repl.it/languages/python3
 ![](assets/img/replit.png)
 
