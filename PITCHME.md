@@ -6,12 +6,12 @@
 
 ---?color=#1E1F21
 ## Online Editor
-###### Go to https://repl.it/languages/python3
+https://repl.it/languages/python3
 ![](assets/img/replit.png)
 
 ---?color=#1E1F21
 ## GIT Repo
-###### Go to https://github.com/erwindev/shecancodeit
+https://github.com/erwindev/shecancodeit
 
 ---?code=src/helloworld.py&lang=Python&color=#1E1F21&title=Your Very First Code: Hello World
 
@@ -52,6 +52,7 @@
 
 ---?code=src/lines.py&lang=Python&color=#1E1F21&title=Logical and Physical Line
 @[1-3]
+@[5]
 @[7]
 
 ---?color=#1E1F21
@@ -67,9 +68,9 @@
 ---?color=#1E1F21
 ## Expressions and Operators
 * Most statements (logical lines) that you write will contain expressions
-* Functionality that do something and can be represented by symbols such as `+` or by special keywords.
+* Expressions are functionality that do something and can be represented by symbols such as `+` or by special keywords.
 * Operators require some data to operate on and such data is called operands.
-* In the example `1 + 2`, `2` and `3` are operands
+* In the example, `1 + 2`, `2` and `3` are operands
 
 ---?color=#1E1F21
 ## Operators
@@ -96,6 +97,9 @@
   * `x <= y` returns `True` or `False`
 * `<=` (greater than or equal to)
   * `x >= y` returns `True` or `False`
+
+---?color=#1E1F21
+## Operators    
 * `==` (equal to)
   * `x == y` returns `True` or `False`
 * `!=` (not equal to)
@@ -125,6 +129,16 @@
 @[42-43]
 @[45-47]
 @[49-52]
+
+---?color=#1E1F21
+## Question
+
+`2 + 3 * 5 = ?`
+
+---?color=#1E1F21
+## Order of Operation
+https://docs.python.org/3/reference/expressions.html#operator-precedence
+
 
 ---?image=assets/img/last.jpeg
 @snap[north span-100 headline]
