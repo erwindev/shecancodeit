@@ -12,6 +12,10 @@ https://repl.it/languages/python3
 ## GIT Repo
 https://github.com/erwindev/shecancodeit
 
+---?color=#1E1F21
+## Presentation
+https://gitpitch.com/erwindev/shecancodeit
+
 ---?code=src/helloworld.py&lang=Python&color=#1E1F21&title=Your Very First Code: Hello World
 
 ---?color=#1E1F21&title=Comments
