@@ -135,23 +135,24 @@ https://github.com/erwindev/shecancodeit
 
 ---?color=#1E1F21&Title=Evaluate
 ## Evaluate
-`(2 + 3) * 5 = ?`
-`2 + (3 * 5) = ?`
+* `(2 + 3) * 5 = ?`
+* `2 + (3 * 5) = ?`
+
+---?color=#1E1F21&Title=Order of Operation
+## Order of Operation
+* To make the expressions more readable, we can use parentheses.
+* `2 + 3 * 5 == 2 + (3 * 5)` returns True
 
 ---?color=#1E1F21&title=Order of Operation
 ## Order of Operation
 https://docs.python.org/3/reference/expressions.html#operator-precedence
-
-To make the expressions more readable, we can use parentheses.
-
-`2 + 3 * 5 == 2 + (3 * 5)` returns True
 
 ---?color=#1E1F21&Title=Exercise
 ## Exercise
 * Write code that will calculate a volume of a sphere
 * Write code that will calculate surface area of a cube
 
----?code=src/exercise1.py&lang=Python&color=#1E1F21&title=Exercise
+---?code=src/excercise1.py&lang=Python&color=#1E1F21&title=Exercise
 @[1-4]
 @[6-8]
 
@@ -186,6 +187,12 @@ To make the expressions more readable, we can use parentheses.
 * Write a program which takes in a string as an input and returns true if all the parentheses in the string are properly closed and nested.
 
 ((lambda (arg) (+ arg 1)) 5)
+
+---?code=src/excercise2.py&lang=Python&color=#1E1F21&title=Exercise
+@[1]
+@[3]
+@[4-8]
+@[10-13]
 
 ---?image=assets/img/last.jpeg
 @snap[north span-100 headline]
