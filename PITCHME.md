@@ -27,6 +27,7 @@ https://gitpitch.com/erwindev/shecancodeit
 @[1-3]
 @[5]
 @[7-8]
+@[1-8]
 
 ---?color=#1E1F21
 ## Strings
@@ -37,6 +38,7 @@ https://gitpitch.com/erwindev/shecancodeit
 @[1-2]
 @[4-5]
 @[7-11]
+@[1-11]
 
 ---?color=#1E1F21
 ## Variables
@@ -47,6 +49,7 @@ https://gitpitch.com/erwindev/shecancodeit
 @[1-4]
 @[6-8]
 @[10-12]
+@[1-12]
 
 ---?color=#1E1F21
 ## Logical and Physical Line
@@ -58,6 +61,7 @@ https://gitpitch.com/erwindev/shecancodeit
 @[1-3]
 @[5]
 @[7]
+@[1-7]
 
 ---?color=#1E1F21
 ## Indentation
@@ -68,6 +72,7 @@ https://gitpitch.com/erwindev/shecancodeit
 ---?code=src/indentations.py&lang=Python&color=#1E1F21&title=Indentation
 @[8-10]
 @[1-6]
+@[1-10]
 
 ---?color=#1E1F21
 ## Expressions and Operators
@@ -133,6 +138,7 @@ https://gitpitch.com/erwindev/shecancodeit
 @[42-43]
 @[45-47]
 @[49-52]
+@[1-52]
 
 ---?color=#1E1F21
 ## Evaluate
@@ -160,6 +166,7 @@ https://docs.python.org/3/reference/expressions.html#operator-precedence
 ---?code=src/exercise1.py&lang=Python&color=#1E1F21&title=Exercise
 @[1-4]
 @[6-8]
+@[1-8]
 
 ---?color=#1E1F21
 ## Control Flow: if
@@ -169,6 +176,7 @@ https://docs.python.org/3/reference/expressions.html#operator-precedence
 
 ---?code=src/guess.py&lang=Python&color=#1E1F21&title=Control Flow: if
 @[8-14]
+@[1-18]
 
 ---?color=#1E1F21
 ## Control Flow: while
@@ -178,6 +186,7 @@ https://docs.python.org/3/reference/expressions.html#operator-precedence
 
 ---?code=src/guess.py&lang=Python&color=#1E1F21&title=Control Flow: while
 @[5-16]
+@[1-18]
 
 ---?color=#1E1F21
 ## Control Flow: for
@@ -186,6 +195,7 @@ https://docs.python.org/3/reference/expressions.html#operator-precedence
 ---?code=src/for.py&lang=Python&color=#1E1F21&title=Control Flow: for
 @[1-4]
 @[6-11]
+@[1-11]
 
 ---?color=#1E1F21
 ## Exercise
@@ -198,6 +208,7 @@ https://docs.python.org/3/reference/expressions.html#operator-precedence
 @[3]
 @[4-8]
 @[10-13]
+@[1-13]
 
 ---?image=assets/img/last.jpeg
 @snap[north span-100 headline]
