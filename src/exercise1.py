@@ -1,6 +1,6 @@
 pi = 3.14
 radius = 3
-vol_sphere = (4/3)*pi*(radius ** 2)
+vol_sphere = (4/3)*pi*(radius ** 3)
 print(vol_sphere)
 
 l = 8
