@@ -152,7 +152,7 @@ https://docs.python.org/3/reference/expressions.html#operator-precedence
 * Write code that will calculate a volume of a sphere
 * Write code that will calculate surface area of a cube
 
----?code=src/excercise1.py&lang=Python&color=#1E1F21&title=Exercise
+---?code=src/exercise1.py&lang=Python&color=#1E1F21&title=Exercise
 @[1-4]
 @[6-8]
 
@@ -188,7 +188,7 @@ https://docs.python.org/3/reference/expressions.html#operator-precedence
 
 ((lambda (arg) (+ arg 1)) 5)
 
----?code=src/excercise2.py&lang=Python&color=#1E1F21&title=Exercise
+---?code=src/exercise2.py&lang=Python&color=#1E1F21&title=Exercise
 @[1]
 @[3]
 @[4-8]
