@@ -9,17 +9,17 @@ https://repl.it/languages/python3
 ![](assets/img/replit.png)
 
 ---?color=#1E1F21
-@title[GIT Repo]
+## GIT Repo
 https://github.com/erwindev/shecancodeit
 
 ---?color=#1E1F21
-@title[Presentation]
+## Presentation
 https://gitpitch.com/erwindev/shecancodeit
 
 ---?code=src/helloworld.py&lang=Python&color=#1E1F21&title=Your Very First Code: Hello World
 
----?color=#1E1F21&title=Comments
-@title[Comments]
+---?color=#1E1F21
+## Comments
 * Comments are any text to the right of the # symbol and is mainly useful as notes for the reader of the program.
 
 ---?code=src/comments.py&lang=Python&color=#1E1F21&title=Comments
@@ -27,8 +27,8 @@ https://gitpitch.com/erwindev/shecancodeit
 @[5]
 @[7-8]
 
----?color=#1E1F21&title=Strings
-@title[Strings]
+---?color=#1E1F21
+## Strings
 * A string is a sequence of characters.
 * Strings are basically just a bunch of words.  
 
@@ -37,8 +37,8 @@ https://gitpitch.com/erwindev/shecancodeit
 @[4-5]
 @[7-11]
 
----?color=#1E1F21&title=Variables
-@title[Variables]
+---?color=#1E1F21
+## Variables
 * Use variables to store any information
 * Manipulate the information stored in the variable
 
@@ -47,8 +47,8 @@ https://gitpitch.com/erwindev/shecancodeit
 @[6-8]
 @[10-12]
 
----?color=#1E1F21&title=Logical and Physical Line
-@title[Logical and Physical Line]
+---?color=#1E1F21
+## Logical and Physical Line
 * A physical line is what you see when you write the program.
 * A logical line is what Python sees as a single statement.
 * Python implicitly assumes that each physical line corresponds to a logical line.
@@ -58,8 +58,8 @@ https://gitpitch.com/erwindev/shecancodeit
 @[5]
 @[7]
 
----?color=#1E1F21&title=Indentation
-@title[Indentation]
+---?color=#1E1F21
+## Indentation
 * Whitespace is important in Python.
 * Leading whitespace (spaces and tabs) at the beginning of the logical line determines indentation
 * Statements that must go together must have the same indentation
@@ -68,30 +68,30 @@ https://gitpitch.com/erwindev/shecancodeit
 @[8-10]
 @[1-6]
 
----?color=#1E1F21&title=Expressions and Operators
-@title[Expressions and Operators]
+---?color=#1E1F21
+## Expressions and Operators
 * Most statements (logical lines) that you write will contain expressions
 * Expressions are functionality that do something and can be represented by symbols such as `+` or by special keywords.
 * Operators require some data to operate on and such data is called operands.
 * In the example, `1 + 2`, `2` and `3` are operands
 
----?color=#1E1F21&title=Operators
-@title[Operators]
+---?color=#1E1F21
+## Operators
 * `+` (plus)
 * `-` (minus)
 * `*` (multiply)
 * `**` (power) `2 ** 3` gives `8` (i.e. `2 * 2 * 2`)
 * `/` (divide)
 
----?color=#1E1F21&title=Operators
-@title[Operators]
+---?color=#1E1F21
+## Operators
 * `%` (modulo)
   * returns the remainder of the division
   * `15 % 2` gives `1`
   * `8 % 4` gives `0`
 
----?color=#1E1F21&title=Operators    
-@title[Operators]
+---?color=#1E1F21
+## Operators
 * `<` (less than)
   * `x < y` returns `True` or `False`
 * `>` (greater than)
@@ -101,15 +101,15 @@ https://gitpitch.com/erwindev/shecancodeit
 * `<=` (greater than or equal to)
   * `x >= y` returns `True` or `False`
 
----?color=#1E1F21&title=Operators    
-@title[Operators]
+---?color=#1E1F21
+## Operators
 * `==` (equal to)
   * `x == y` returns `True` or `False`
 * `!=` (not equal to)
   * `x != y` returns `True` or `False`  
 
----?color=#1E1F21&title=Operators
-@title[Operators]
+---?color=#1E1F21
+## Operators
 * `not` (boolean NOT)
   * If x is True, it returns `False`. If x is `False`, it returns `True`.
 * `and` (boolean AND)
@@ -133,26 +133,26 @@ https://gitpitch.com/erwindev/shecancodeit
 @[45-47]
 @[49-52]
 
----?color=#1E1F21&Title=Evaluate
-@title[Evaluate]
+---?color=#1E1F21
+## Evaluate
 `2 + 3 * 5 = ?`
 
----?color=#1E1F21&Title=Evaluate
-@title[Evaluate]
+---?color=#1E1F21
+## Evaluate
 * `(2 + 3) * 5 = ?`
 * `2 + (3 * 5) = ?`
 
----?color=#1E1F21&Title=Order of Operation
-@title[Order of Operation]
+---?color=#1E1F21
+## Order of Operation
 * To make the expressions more readable, we can use parentheses.
 * `2 + 3 * 5 == 2 + (3 * 5)` returns True
 
----?color=#1E1F21&title=Order of Operation
-@title[Order of Operation]
+---?color=#1E1F21
+## Order of Operation
 https://docs.python.org/3/reference/expressions.html#operator-precedence
 
----?color=#1E1F21&Title=Exercise
-@title[Exercise]
+---?color=#1E1F21
+## Exercise
 * Write code that will calculate a volume of a sphere
 * Write code that will calculate surface area of a cube
 
@@ -160,8 +160,8 @@ https://docs.python.org/3/reference/expressions.html#operator-precedence
 @[1-4]
 @[6-8]
 
----?color=#1E1F21&title=Control Flow: if
-@title[Control Flow: if]
+---?color=#1E1F21
+## Control Flow: if
 * if statement is used to check a condition
 * if the condition is true, we run a block of statements (called the if-block)
 * else we process another block of statements (called the else-block)
@@ -169,8 +169,8 @@ https://docs.python.org/3/reference/expressions.html#operator-precedence
 ---?code=src/guess.py&lang=Python&color=#1E1F21&title=Control Flow: if
 @[8-14]
 
----?color=#1E1F21&title=Control Flow: while
-@title[Control Flow: while]
+---?color=#1E1F21
+## Control Flow: while
 * while statement allows you to repeatedly execute a block of statements as long as a condition is true
 * looping statement
 * can have an optional else clause
@@ -178,16 +178,16 @@ https://docs.python.org/3/reference/expressions.html#operator-precedence
 ---?code=src/guess.py&lang=Python&color=#1E1F21&title=Control Flow: while
 @[5-16]
 
----?color=#1E1F21&title=Control Flow: for
-@title[Control Flow: for]
+---?color=#1E1F21
+## Control Flow: for
 * for..in statement is another looping statement which iterates over a sequence of objects
 
 ---?code=src/for.py&lang=Python&color=#1E1F21&title=Control Flow: for
 @[1-4]
 @[6-11]
 
----?color=#1E1F21&Title=Exercise
-@title[Exercise]
+---?color=#1E1F21
+## Exercise
 * Write a program which takes in a string as an input and returns true if all the parentheses in the string are properly closed and nested.
 
 ((lambda (arg) (+ arg 1)) 5)
